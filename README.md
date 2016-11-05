@@ -1,6 +1,0 @@
-# HTML-CSS
-<div class="title">My App</div>
-  <div class="app">
-      <div class="screenshot">image</div>
-      <div class="description">text</div>
-  </div>
